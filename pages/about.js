@@ -1,3 +1,5 @@
+import Nav from '../components/nav'
+
 function About() {
   return <div>About</div>
   
